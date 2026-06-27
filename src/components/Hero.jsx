@@ -2,7 +2,7 @@ import profilePic from '../assets/pfp.png';
 
 function Hero() {
   return (
-    <section className="hero-section">
+    <section id="hero" className="hero-section">
       <div className="hero-container">
         <div className="hero-content">
           <span className="hero-subtitle">Welcome to my portfolio</span>
